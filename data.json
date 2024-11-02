@@ -1,0 +1,41 @@
+{
+    "info": [
+        {
+            "title": "Black Ops 6",
+            "desc": "Call of Duty: Black Ops 6 te sumerge en un futuro cercano con una campaña emocionante y un multijugador innovador. Con gráficos impresionantes y nuevas mecánicas de juego, ofrece una experiencia intensa y adictiva para todos los fanáticos. ¡Prepárate para la acción!",
+            "price": 100000,
+            "image": "Img-juegos/BO6.png"
+        },
+        {
+            "title": "BaBattlefield 1",
+            "desc": "Battlefield 1 te sumerge en la Primera Guerra Mundial, con combates épicos y gráficos impresionantes. Disfruta de una campaña llena de historias personales y un multijugador intenso y estratégico. ¡Únete a la batalla y vive la guerra en su máxima expresión!. Disponible en todos los formatos",
+            "price": 47000,
+            "image": "Img-juegos/BTF-1.png"
+        },
+        {
+            "title": "Final Fantasy X",
+            "desc": "Final Fantasy X es un RPG icónico que sigue la historia de Tidus y Yuna en un mundo lleno de magia y misterio. Con una narrativa emotiva y un sistema de combate por turnos, combina exploración profunda con personajes memorables. ¡Embárcate en esta épica aventura y descubre el destino de Spira!",
+            "price": 150000,
+            "image": "Img-juegos/FFX.png"
+        },
+        {
+            "title": "Gtav",
+            "desc": "Grand Theft Auto V te sumerge en Los Santos, donde sigues la historia de tres criminales en busca de redención. Con su jugabilidad abierta y misiones emocionantes, ofrece libertad total para explorar, robar y causar caos. ¡Vive la vida del crimen como nunca antes!",
+            "price": 25000,
+            "image": "Img-juegos/GTA-V.png"
+        },
+        {
+            "title": "Skate 3",
+            "desc": "Skate 3 te invita a experimentar la cultura del skate en una ciudad vibrante y abierta. Crea tu propio skater y forma tu equipo mientras realizas trucos y desafíos en diversas ubicaciones. Con un sistema de control intuitivo y gráficos impresionantes, es la experiencia definitiva para los amantes del skate.",
+            "price": 5000,
+            "image": "Img-juegos/SK3.png"
+        },
+        {
+            "title": "Urban Chaos",
+            "desc": "Urban Chaos te sumerge en un mundo lleno de crimen. Juega como un oficial de policía que debe restaurar el orden en una ciudad descontrolada, enfrentándote a pandillas y desafíos en cada esquina. ¡Prepárate para la acción en este emocionante entorno urbano!.",
+            "price": 60000,
+            "image": "Img-juegos/UC.png"
+        }
+
+    ]
+}
